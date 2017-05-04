@@ -1,7 +1,5 @@
-<header class="contenedor">
-<center><h1>Usuario Activo o Inactivo</h1></center><br>
-
-  <table>
+ <div class="table-responsive">
+  <table class="table table-striped table-hover table-condensed">
     <tr>
       <th>#</th>
       <th>Nombres</th>
@@ -49,4 +47,6 @@
     </tr>
   </table>
 
-</header>
+</div>
+</div>
+</div>

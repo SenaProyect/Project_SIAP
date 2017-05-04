@@ -1,12 +1,11 @@
-<header class="contenedor">
-<center><h1>Programa de formacion</h1></center><br>
-
-  <table>
+ <div class="table-responsive">
+  <table class="table table-striped table-hover table-condensed">
     <tr>
+     <th>Programa de Formacion</th>
       <th>Nombres</th>
       <th>Apellidos</th>
       <th>Documento</th>
-      <th>Programa de Formacion</th>
+     
 
     </tr>
     <tr>
@@ -33,5 +32,6 @@
   
     </tr>
   </table>
-
-</header>
+</div>
+</div>
+</div>

@@ -1,7 +1,5 @@
-<header class="contenedor">
-<center><h1>Reportar Problemas</h1></center><br>
-
-  <table>
+ <div class="table-responsive">
+  <table class="table table-striped table-hover table-condensed">
     <tr>
       <th>Tipo Problema</th>
       <th>Obcervaciones</th>
@@ -34,4 +32,6 @@
     </tr>
   </table>
 
-</header>
+</div>
+</div>
+</div>

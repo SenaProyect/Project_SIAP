@@ -20,6 +20,7 @@
 			require_once('view/all/header.php');
 			require_once('view/all/navbar.php');
 			require_once('view/all/menu_crud.php');
+			/**/require_once('view/admin/admin.php');
 			require_once('view/admin/history.php');
 			require_once('view/all/footer.php');
 
@@ -28,6 +29,7 @@
 			require_once('view/all/header.php');
 			require_once('view/all/navbar.php');
 			require_once('view/all/menu_crud.php');
+			/**/require_once('view/admin/admin.php');
 			require_once('view/admin/registros.php');
 			require_once('view/all/footer.php');
 		}
@@ -36,6 +38,7 @@
 			require_once('view/all/header.php');
 			require_once('view/all/navbar.php');
 			require_once('view/all/menu_crud.php');
+			/**/require_once('view/admin/admin.php');
 			require_once('view/admin/consultvehicule.php');
 			require_once('view/all/footer.php');
 		}
@@ -43,6 +46,7 @@
 			require_once('view/all/header.php');
 			require_once('view/all/navbar.php');
 			require_once('view/all/menu_crud.php');
+			/**/require_once('view/admin/admin.php');
 			require_once('view/admin/usersinactiveoractive.php');
 			require_once('view/all/footer.php');
 		}
@@ -50,6 +54,7 @@
 			require_once('view/all/header.php');
 			require_once('view/all/navbar.php');
 			require_once('view/all/menu_crud.php');
+			/**/require_once('view/admin/admin.php');
 			require_once('view/admin/completdisponibility.php');
 			require_once('view/all/footer.php');
 		}
@@ -57,6 +62,7 @@
 			require_once('view/all/header.php');
 			require_once('view/all/navbar.php');
 			require_once('view/all/menu_crud.php');
+			/**/require_once('view/admin/admin.php');
 			require_once('view/admin/adminpage.php');
 			require_once('view/all/footer.php');
 		}
@@ -64,6 +70,7 @@
 			require_once('view/all/header.php');
 			require_once('view/all/navbar.php');
 			require_once('view/all/menu_crud.php');
+			/**/require_once('view/admin/admin.php');
 			require_once('view/admin/reportproblems.php');
 			require_once('view/all/footer.php');
 		}
@@ -71,6 +78,7 @@
 			require_once('view/all/header.php');
 			require_once('view/all/navbar.php');
 			require_once('view/all/menu_crud.php');
+			/**/require_once('view/admin/admin.php');
 			require_once('view/admin/lasthour.php');
 			require_once('view/all/footer.php');
 		}
@@ -78,14 +86,8 @@
 			require_once('view/all/header.php');
 			require_once('view/all/navbar.php');
 			require_once('view/all/menu_crud.php');
+			/**/require_once('view/admin/admin.php');
 			require_once('view/admin/program.php');
-			require_once('view/all/footer.php');
-		}
-				public function queryage(){
-			require_once('view/all/header.php');
-			require_once('view/all/navbar.php');
-			require_once('view/all/menu_crud.php');
-			require_once('view/admin/age.php');
 			require_once('view/all/footer.php');
 		}
 

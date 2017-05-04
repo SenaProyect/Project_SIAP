@@ -683,11 +683,11 @@ header.contenedor{
     top: 10%;
 	left: 10%;
 	transition: 1s;
-}
+}/*
 header.contenedor:hover{
 
-	box-shadow: 10px 8px 3px 2px rgba(0,0,0,0.6);
-}
+	box-shadow: 10px 8px 3px 2px red;
+}*/
 
 
 
@@ -1277,20 +1277,6 @@ canvas{
 
 
 /*Tablas*/
-
-table {
-    border-collapse: collapse;
-    width: 100%;
-}
-
-th, td {
-    text-align: left;
-    padding: 8px;
-}
-
-tr:nth-child(even){background-color: #f2f2f2}
-
-
 
 
 

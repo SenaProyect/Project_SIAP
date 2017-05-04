@@ -1,7 +1,7 @@
 <html>
 <head>
 		<title>SIAP</title>
-	<link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="assets/app.css">
 
 	

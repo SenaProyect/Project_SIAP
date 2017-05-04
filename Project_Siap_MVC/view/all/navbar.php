@@ -21,7 +21,7 @@
     <li id="li_menu"><img class="icono" src="assets/img/login1.svg"><a>Iniciar Sesión</a>
       
     </li>
-    <li class="movimiento_menu" id="movimiento_menu" onclick="mover_me id="li_menu"nu();">
+    <li class="movimiento_menu" id="movimiento_menu" onclick="mover_menu();">
     <img class="icono_menu" src="assets/img/menu.svg">
     <img class="icono_menu" id="icono_flecha" src="assets/img/up-arrow.svg"></li>
   </ul>

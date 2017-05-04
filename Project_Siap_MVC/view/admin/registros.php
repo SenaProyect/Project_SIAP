@@ -1,7 +1,6 @@
-<header class="contenedor">
-<center><h1>Registros</h1></center><br><br>
+ <div class="table-responsive">
+  <table class="table table-striped table-hover table-condensed">
 
-  <table>
     <tr>
       <th>#</th>
       <th>Nombres</th>
@@ -12,10 +11,10 @@
       <th>Programa de formacion</th>
       <th>Genero</th>
       <th>Correo Electronico</th>
-      <th>Ver mas</th>
+      <th>Registrado por</th>
     </tr>
     <tr>
-        <td>Ji Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, sed!</td>
+        <td>1</td>
    <td>Ji Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, sed!</td>
 
             <td>Ji Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, sed!</td>
@@ -30,7 +29,7 @@
   
     </tr>
     <tr>
-          <td>Ji Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, sed!</td>
+          <td>1</td>
      <td>Ji Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, sed!</td>
 
       <td>E Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, libero.</td>
@@ -44,7 +43,7 @@
 
     </tr>
     <tr>
-          <td>Ji Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, sed!</td>
+          <td>1</td>
      <td>Ji Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, sed!</td>
 
       <td>Ad Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, possimus!</td>
@@ -60,4 +59,6 @@
     </tr>
   </table>
 
-</header>
+</div>
+</div>
+</div>
